@@ -1,0 +1,17 @@
+body { margin:0; padding:0; background:#f6f6f6; }
+
+.editModel {
+	border: 2px dashed lightgrey;
+}
+
+.layoutModel {
+	border: 2px dashed lightgrey;	
+}
+
+.currentComponent {
+	border: 3px dashed black;
+}
+
+.ui-state-disabled {
+	opacity: 1;
+}
